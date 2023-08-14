@@ -1,1 +1,4 @@
-this is second text file in git file------2
+#include<stdio.h>
+void main(){
+    printf("hello everyone i cerated second.c file update the Write c Program.......");
+}
